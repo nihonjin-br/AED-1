@@ -1,4 +1,4 @@
-// Beecrowd | Sudoku - 1383 //
+// Beecrowd | 1383 - Sudoku //
 
 #include <stdio.h>
  
